@@ -20,23 +20,24 @@ Supports format selection, quality filtering, threaded downloads, and real-time 
 
 ## 🗂️ Project Structure
 
+```text
 MODERN-YTDLP-GUI/
 │
 ├── app/
-│ ├── gui.py
-│ ├── downloader.py
-│ ├── logger.py
-│ └── utils.py
+│   ├── gui.py
+│   ├── downloader.py
+│   ├── logger.py
+│   └── utils.py
 │
 ├── assets/
-│ ├── icons/
-│ │ └── app_icon.ico
-│ └── images/
-│ └── logo.png
+│   ├── icons/
+│   │   └── app_icon.ico
+│   └── images/
+│       └── logo.png
 │
 ├── tests/
-│ ├── test_downloader.py
-│ └── test_utils.py
+│   ├── test_downloader.py
+│   └── test_utils.py
 │
 ├── main.py
 ├── requirements.txt
