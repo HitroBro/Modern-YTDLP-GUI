@@ -18,11 +18,10 @@ Supports format selection, quality filtering, threaded downloads, and real-time 
 
 ---
 
-## 🗂️ Project Structure
+## 📁 Project Structure
 
 ```text
 MODERN-YTDLP-GUI/
-│
 ├── app/
 │   ├── gui.py
 │   ├── downloader.py
@@ -42,13 +41,3 @@ MODERN-YTDLP-GUI/
 ├── main.py
 ├── requirements.txt
 └── README.md
-
----
-
-## ⚙️ Installation
-
-### 1️⃣ Clone the repository
-
-```bash
-git clone https://github.com/HitroBro/Modern-YTDLP-GUI.git
-cd Modern-YTDLP-GUI
